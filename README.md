@@ -18,4 +18,4 @@ Objectives:
     * Basically our platform will help those students who face problems in finding a better hostel I a very new area.
 
 
-<h1>Just checkout the site</h>
+<a href="https://sahoochinmay.github.io/HostelDayz/"> Checkout hte site</a>
