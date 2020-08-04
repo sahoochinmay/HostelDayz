@@ -17,5 +17,12 @@ Objectives:
     * The website will also show different attributes of hostels like price variation, better food availability , seat availability in hostels, etc.
     * Basically our platform will help those students who face problems in finding a better hostel I a very new area.
 
+<h1><a href="https://sahoochinmay.github.io/HostelDayz/"> Checkout the site demo here</a></h1>
 
-<a href="https://sahoochinmay.github.io/HostelDayz/"> Checkout the site demo here</a>
+
+
+<img src="./images/Screenshot (126).png" />
+
+
+  Here we create this using a free template .
+  My team Hacko Army having 4 members create this as our first modified demo site.
