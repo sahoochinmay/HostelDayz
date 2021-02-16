@@ -17,6 +17,12 @@ Objectives:
     * The website will also show different attributes of hostels like price variation, better food availability , seat availability in hostels, etc.
     * Basically our platform will help those students who face problems in finding a better hostel I a very new area.
 
+Team Hacko Army:
+    * Rakesh Das
+    * Chinmay Ranjan Sahoo
+    * Sibun Katuala
+    * Smruti Sourav Nanda
+
 <h1><a href="https://sahoochinmay.github.io/HostelDayz/"> Checkout the site demo here</a></h1>
 
 
